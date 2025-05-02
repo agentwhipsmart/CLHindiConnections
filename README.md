@@ -67,4 +67,9 @@ The game tracks:
 - Accuracy percentage
 - Total and correct guesses
 
+  ## Files
+  The Templates Folder contains index, stats and register HTML documents to collect data from the players.
+  The main.py contains the main code for the game play. The categories.py file contains the dataset consisting of 23 puzzles.
+  The game_data file contains the game-play data collected. 
+
 Created by [Akankshya Mishra] on Replit
